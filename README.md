@@ -2,7 +2,8 @@ frontend-nanodegree-arcade-game
 ===============================
 
 1) Running the Game
-Open the index.html file (in root folder) in your browser to load the game. You can also decide to host the game on a webserver to make it avalable to other players / users.
+Start a Static Server using Python's SimpleHTTPServer or any other webserver to host the game.
+Open the index.html file (in root www folder) in your browser to load the game. You can also decide to host the game on a webserver to make it avalable to other players / users.
 
 2) Playing the game
 The game is played by using the Up, Down, Left & Right arrow keys to move the player.
